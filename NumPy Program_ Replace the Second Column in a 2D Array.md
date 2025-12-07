@@ -12,8 +12,8 @@ To write a **NumPy** program that deletes the second column from a given 2D arra
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: Jwalamukhi S
+Register no: 212223040079
 ```
 ``` 
 import numpy as np
